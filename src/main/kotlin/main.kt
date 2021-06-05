@@ -94,6 +94,8 @@ fun main(arguments: Array<String>) {
         stringVal -> stringVal.length==4
     }
     println(findStringWithLength4.count())
+println("Test code")
+
 }
 
 
